@@ -17,7 +17,7 @@
 <table outline="false">
 <tr>
     <td width="156px" valign="center" align="center">
-        <img width="128px" height="128px"" alt="AWS Certified Developer Associate" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/aws-cda.png"/>
+        <a href="https://www.youracclaim.com/badges/dbbd5f6f-c02e-4b2e-8663-d870c7bffe9c/"><img width="128px" height="128px"" alt="AWS Certified Developer Associate" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/aws-cda.png"/></a>
     </td>
     <td>
         I play around with a bit of everything from embedded systems to database design, cloud infrastructure, game development, robotics and web development. I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
