@@ -20,6 +20,7 @@ Most repositories including my games are private / proprietary. If you are an em
 <img alt="Python" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/python.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Vim" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/vim.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Vue.js" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/vue.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
+<img alt="Flask" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/flask.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Arch Linux" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/archlinux.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <br/>
 </p>
@@ -34,12 +35,13 @@ Most repositories including my games are private / proprietary. If you are an em
 <img alt="Grafana" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/grafana.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Source SDK (Half-Life 2)" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/sourcesdk.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="MySQL" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/mysql.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
+<img alt="Galera Cluster" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/galera.png?sanitize=true"> &nbsp; &nbsp; &nbsp;
+<img alt="Percona" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/percona.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Debian" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/debian.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Node.js" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/nodejs.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
+<img alt="Django" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/django.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Docker" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/docker.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
 <img alt="Unity" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/unity.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
-<img alt="Percona" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/percona.svg?sanitize=true"> &nbsp; &nbsp; &nbsp;
-<img alt="Galera Cluster" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/galera.png?sanitize=true"> &nbsp; &nbsp; &nbsp;
 </p>
 
 <br/>
