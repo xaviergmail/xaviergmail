@@ -1,4 +1,4 @@
-<h1 align="center">AWS Certified Developer with a passion for CI/CD and automation in general.</h1>
+<h1 align="center">AWS Certified Developer with a passion for CI/CD and automation</h1>
 <br/>
 
 <p align="center">
@@ -34,7 +34,7 @@ Most repositories including my games are private / proprietary. If you are an em
 
 <h1 align="center">Technologies!</h1>
 
-<h3 align="center">Preferred &amp; Proficient. My ideal day-to-day!</h3>
+<h3 align="center">Preferred / Proficient. My ideal day-to-day!</h3>
 <p align="center" float="left">
 <img alt="AWS (Amazon Web Services)" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/aws.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="GitLab CI/CD"  width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/gitlab.svg"> &nbsp; &nbsp; &nbsp;
